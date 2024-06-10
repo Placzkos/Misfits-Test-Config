@@ -45,6 +45,11 @@
         "version": ""
       },
       {
+        "modId": "612887306DB14B3F",
+        "name": "TACTICALBARBIES FORTIFICATIONS",
+        "version": ""
+      },
+      {
         "modId": "606D03292879EF5B",
         "name": "SCENARIO RELOAD MENU",
         "version": ""
@@ -205,6 +210,11 @@
         "version": ""
       },
       {
+        "modId": "5D5A20A8AE33C21E",
+        "name": "COUGAR MRAP",
+        "version": ""
+      },
+      {
         "modId": "5B383D4CB27E0D54",
         "name": "BMP-3 IFV",
         "version": ""
@@ -247,11 +257,6 @@
       {
         "modId": "618AFBCBD51262A4",
         "name": "APACHEUPGRADE",
-        "version": ""
-      },
-      {
-        "modId": "618C6000F5730CA2",
-        "name": "CIVIL AIRCRAFT PACK EUROCOPTER",
         "version": ""
       },
       {
@@ -510,8 +515,13 @@
         "version": ""
       },
       {
-        "modId": "5CAB06A845A6DC18",
-        "name": "UNITS MAP MARKERS",
+        "modId": "59D64ADD6FC59CBF",
+        "name": "PROJECT REDLINE - UH-60",
+        "version": ""
+      },
+      {
+        "modId": "60C40CDB56C23C6B",
+        "name": "VPAD",
         "version": ""
       }
     ],
