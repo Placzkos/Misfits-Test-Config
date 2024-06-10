@@ -45,8 +45,18 @@
         "version": ""
       },
       {
+        "modId": "606D03292879EF5B",
+        "name": "SCENARIO RELOAD MENU",
+        "version": ""
+      },
+      {
         "modId": "611F3D4E2C5E04D8",
         "name": "COALITION LIGHTING",
+        "version": ""
+      },
+      {
+        "modId": "6172FBB03A3D6C10",
+        "name": "REFX - EFFECTS ENHANCEMENT",
         "version": ""
       },
       {
@@ -145,11 +155,6 @@
         "version": ""
       },
       {
-        "modId": "5DC80CC55F805CAE",
-        "name": "SUSPICIOUS ITEM PROPS",
-        "version": ""
-      },
-      {
         "modId": "5F207DD6271E2799",
         "name": "COLLECTABLE INTEL & PHONES",
         "version": ""
@@ -167,6 +172,11 @@
       {
         "modId": "60C4C12DAE90727B",
         "name": "ACE MEDICAL",
+        "version": ""
+      },
+      {
+        "modId": "60C4E0B49618CC62",
+        "name": "ACE ALL IN ONE",
         "version": ""
       },
       {
@@ -190,8 +200,8 @@
         "version": ""
       },
       {
-        "modId": "611CDB9DCEE7075F",
-        "name": "S105 RALLY EDITION",
+        "modId": "617AC5E57EF1D9E3",
+        "name": "WZ VEHICLES",
         "version": ""
       },
       {
@@ -207,11 +217,6 @@
       {
         "modId": "612F4C04CFF9B1C4",
         "name": "BRADLEYFIX",
-        "version": ""
-      },
-      {
-        "modId": "5D9ECAD071E9ECBC",
-        "name": "HMMWV VARIANTS PACK",
         "version": ""
       },
       {
@@ -245,28 +250,8 @@
         "version": ""
       },
       {
-        "modId": "5F244258B6AD0AB4",
-        "name": "DARKGRU SOAR HELICOPTERS",
-        "version": ""
-      },
-      {
-        "modId": "60F4E9D486DEC02B",
-        "name": "DARKGRU SOAR 4MMR HELICOPTERS",
-        "version": ""
-      },
-      {
-        "modId": "6176C7543651122E",
-        "name": "BRITISH CHINOOK",
-        "version": ""
-      },
-      {
-        "modId": "5994614FB5AD35C2",
-        "name": "RHIB",
-        "version": ""
-      },
-      {
-        "modId": "6164D69FACDDF372",
-        "name": "RHIB ARMED",
+        "modId": "618C6000F5730CA2",
+        "name": "CIVIL AIRCRAFT PACK EUROCOPTER",
         "version": ""
       },
       {
@@ -290,16 +275,6 @@
         "version": ""
       },
       {
-        "modId": "5EE77B9D2162E071",
-        "name": "STARYARMORY - Uniform",
-        "version": ""
-      },
-      {
-        "modId": "5E935A1934BE8FA7",
-        "name": "StaryArmory - HeadGear",
-        "version": ""
-      },
-      {
         "modId": "5CF0C3158AB2337E",
         "name": "Task Force Mattock Uniforms",
         "version": ""
@@ -320,28 +295,28 @@
         "version": ""
       },
       {
+        "modId": "606112213B843B46",
+        "name": "DARKGRU PLA FACTION",
+        "version": ""
+      },
+      {
         "modId": "5E20E8B2F00F9864",
         "name": "DARKGRU OPERATORS PACK",
         "version": ""
       },
       {
-        "modId": "60DD71E560D0D03F",
-        "name": "75th Ranger Gear",
+        "modId": "606F57376632E15B",
+        "name": "DARKGRU OPERATORS",
         "version": ""
       },
       {
-        "modId": "607CE45D27490DBF",
-        "name": "JTF2",
+        "modId": "60AD58012EA4A317",
+        "name": "DARKGRU NATO OVERHAUL",
         "version": ""
       },
       {
         "modId": "616B4A79640A917E",
         "name": "TASK FORCE MATTOCK EDITS",
-        "version": ""
-      },
-      {
-        "modId": "5E453E531CC221EF",
-        "name": "UNITED SICARII SOCOM BACKPACKS",
         "version": ""
       },
       {
@@ -425,23 +400,8 @@
         "version": ""
       },
       {
-        "modId": "615F7A92CCEDD8E3",
-        "name": "AT4 - M136",
-        "version": ""
-      },
-      {
         "modId": "618EF75892EA6278",
         "name": "NLAW",
-        "version": ""
-      },
-      {
-        "modId": "60F0FDD47779E6A0",
-        "name": "FGM-148 JAVELIN",
-        "version": ""
-      },
-      {
-        "modId": "619054DE977642D2",
-        "name": "FGM-148 JAVELIN FIX",
         "version": ""
       },
       {
@@ -460,6 +420,31 @@
         "version": ""
       },
       {
+        "modId": "6088438E8ED8BB2A",
+        "name": "WINTERIZE TERRAIN",
+        "version": ""
+      },
+      {
+        "modId": "613978E1AB3EE360",
+        "name": "WINTERIZE RHS CAMO",
+        "version": ""
+      },
+      {
+        "modId": "6152E2EBAA392F36",
+        "name": "WINTERIZE TIRES",
+        "version": ""
+      },
+      {
+        "modId": "6086A1019430BE61",
+        "name": "AVALANCHE",
+        "version": ""
+      },
+      {
+        "modId": "618A4B56BF7F41D5",
+        "name": "CERBERUS RETEXTURES",
+        "version": ""
+      },
+      {
         "modId": "6108068653AFDA36",
         "name": "C-15 6NZ SOUND MOD -- UPDATED",
         "version": ""
@@ -472,6 +457,21 @@
       {
         "modId": "597C0CF3A7AA8A99",
         "name": "BETTERSOUNDS 3.5",
+        "version": ""
+      },
+      {
+        "modId": "605F3615AB65443C",
+        "name": "SR SOUND MOD",
+        "version": ""
+      },
+      {
+        "modId": "6119364328B41814",
+        "name": "REALISTIC MIL MI8MT HELICOPTER",
+        "version": ""
+      },
+      {
+        "modId": "611F5A1124E0168B",
+        "name": "REALISTIC BELL UH-1H IROQUOIS",
         "version": ""
       },
       {
@@ -495,8 +495,18 @@
         "version": ""
       },
       {
-        "modId": "5F2944B7474F043F",
-        "name": "DISABLE GAME MASTER BUDGETS",
+        "modId": "59EAA899751805DF",
+        "name": "STUN GRENADE",
+        "version": ""
+      },
+      {
+        "modId": "5E5CF1DCC95C888E",
+        "name": "X26P TASER",
+        "version": ""
+      },
+      {
+        "modId": "613B4DD4A91CA144",
+        "name": "LM SUPPRESSION",
         "version": ""
       },
       {
