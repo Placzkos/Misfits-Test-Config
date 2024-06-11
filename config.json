@@ -35,23 +35,38 @@
     },
     "mods": [
       {
-        "modId": "60B524F7A5AE96A8",
-        "name": "ARMA TERRAIN CORE",
+        "modId": "5D84C738432BFE6A",
+        "name": "WOLFSBUILDINGPACK",
         "version": ""
       },
       {
-        "modId": "5C9691EA7FD7A79F",
-        "name": "KUNAR PROVINCE - AFGHANISTAN",
-        "version": ""
-      },
-      {
-        "modId": "612887306DB14B3F",
-        "name": "TACTICALBARBIES FORTIFICATIONS",
+        "modId": "5D58A217A9611AFB",
+        "name": "DEAD EVERON",
         "version": ""
       },
       {
         "modId": "606D03292879EF5B",
         "name": "SCENARIO RELOAD MENU",
+        "version": ""
+      },
+      {
+        "modId": "5AAF6D5352E5FCAB",
+        "name": "PROJECT REDLINE - CORE",
+        "version": ""
+      },
+      {
+        "modId": "5E389BB9F58B79A6",
+        "name": "SpaceCore",
+        "version": ""
+      },
+      {
+        "modId": "5F1EE615E7AE3106",
+        "name": "BGONE",
+        "version": ""
+      },
+      {
+        "modId": "59D64ADD6FC59CBF",
+        "name": "PROJECT REDLINE - UH-60",
         "version": ""
       },
       {
@@ -190,28 +205,13 @@
         "version": ""
       },
       {
-        "modId": "5AAF6D5352E5FCAB",
-        "name": "PROJECT REDLINE - CORE",
-        "version": ""
-      },
-      {
-        "modId": "5E389BB9F58B79A6",
-        "name": "SpaceCore",
-        "version": ""
-      },
-      {
-        "modId": "5F1EE615E7AE3106",
-        "name": "BGONE",
-        "version": ""
-      },
-      {
         "modId": "617AC5E57EF1D9E3",
         "name": "WZ VEHICLES",
         "version": ""
       },
       {
-        "modId": "5D5A20A8AE33C21E",
-        "name": "COUGAR MRAP",
+        "modId": "5C721177A220B42F",
+        "name": "JOINT LIGHT TACTICAL VEHICLE",
         "version": ""
       },
       {
@@ -465,11 +465,6 @@
         "version": ""
       },
       {
-        "modId": "607D293B86831307",
-        "name": "TODS UH1H HUEYS",
-        "version": ""
-      },
-      {
         "modId": "6119364328B41814",
         "name": "REALISTIC MIL MI8MT HELICOPTER",
         "version": ""
@@ -480,38 +475,8 @@
         "version": ""
       },
       {
-        "modId": "5EF0FE5A28A7BC8A",
-        "name": "OPENABLE HUEY DOORS",
-        "version": ""
-      },
-      {
-        "modId": "5F28AAC892B984F4",
-        "name": "VXS GAMING CUSTOM SCREAM PACK",
-        "version": ""
-      },
-      {
-        "modId": "5D931A33AEB81FA3",
-        "name": "TALIBANMOD",
-        "version": ""
-      },
-      {
-        "modId": "6048423066BB5FE8",
-        "name": "TALIBAN VOICE PACK SA VERSION",
-        "version": ""
-      },
-      {
         "modId": "6174A376E06661BF",
         "name": "BRUTAL VOICES",
-        "version": ""
-      },
-      {
-        "modId": "59EAA899751805DF",
-        "name": "STUN GRENADE",
-        "version": ""
-      },
-      {
-        "modId": "5E5CF1DCC95C888E",
-        "name": "X26P TASER",
         "version": ""
       },
       {
@@ -520,8 +485,18 @@
         "version": ""
       },
       {
+        "modId": "61963676F75EE84E",
+        "name": "LM SUPPRESSION TWEAKS",
+        "version": ""
+      },
+      {
         "modId": "60C40CDB56C23C6B",
         "name": "VPAD",
+        "version": ""
+      },
+      {
+        "modId": "610B2CAD8488A058",
+        "name": "TODS UH-60 FIX",
         "version": ""
       }
     ],
