@@ -65,11 +65,6 @@
         "version": ""
       },
       {
-        "modId": "59D64ADD6FC59CBF",
-        "name": "PROJECT REDLINE - UH-60",
-        "version": ""
-      },
-      {
         "modId": "611F3D4E2C5E04D8",
         "name": "COALITION LIGHTING",
         "version": ""
@@ -215,6 +210,11 @@
         "version": ""
       },
       {
+        "modId": "5D5A20A8AE33C21E",
+        "name": "COUGAR MRAP",
+        "version": ""
+      },
+      {
         "modId": "5B383D4CB27E0D54",
         "name": "BMP-3 IFV",
         "version": ""
@@ -257,6 +257,11 @@
       {
         "modId": "618AFBCBD51262A4",
         "name": "APACHEUPGRADE",
+        "version": ""
+      },
+      {
+        "modId": "611ABE2F73802440",
+        "name": "WZ TURRETS",
         "version": ""
       },
       {
@@ -485,18 +490,18 @@
         "version": ""
       },
       {
-        "modId": "61963676F75EE84E",
-        "name": "LM SUPPRESSION TWEAKS",
+        "modId": "6198EC294DEC63C0",
+        "name": "BAD PARACHUTE",
+        "version": ""
+      },
+      {
+        "modId": "60AD1760D71BE219",
+        "name": "MQ-9 REAPER",
         "version": ""
       },
       {
         "modId": "60C40CDB56C23C6B",
         "name": "VPAD",
-        "version": ""
-      },
-      {
-        "modId": "610B2CAD8488A058",
-        "name": "TODS UH-60 FIX",
         "version": ""
       }
     ],
